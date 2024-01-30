@@ -29,7 +29,7 @@ En este ejercicio se ven los datos primitivos que hay en JavaScript junto a sus 
 <h2>Ejercicio 4</h2>
 
 <p>
-En este ejercicio se enseña a cómo utilizar los comentarios correctamente de dos tipos de formas diferentes
+En este ejercicio se enseña a cómo utilizar los comentarios correctamente de dos tipos de formas diferentes.
 <p>
 
 <hr>
